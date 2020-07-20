@@ -1,0 +1,63 @@
+@charset "UTF-8";
+
+/*
+ 设置body高度 
+html, body {
+	height: 100%;
+}
+
+设置body背景色
+.body {
+	background-color: #e9e9ff;
+}
+
+ 设置正文容器颜色和最小高度 
+#container {
+	background-color: #ffffff;
+	min-height: 100%;
+}
+*/
+
+/* 设置标题样式 */
+#call_hist_title {
+	text-align: center;
+	color: #008080;
+	margin-top: 1.5em;
+	margin-bottom: 1em;
+}
+
+/* 设置模板表格不显示 */
+#resu_tab_template {
+	display: none;
+}
+
+/* 设置查询按钮居右 */
+#get_ch_submit {
+	float: right;
+}
+
+/* 设置提示文字颜色 */
+.tip_font {
+	color: #008040;
+}
+
+/* 设置通话记录表格背景色和字体 */
+.resu_tab {
+	background-color: #efefef;
+	font-family: sans-serif;
+}
+
+/* 设置通话记录表格第一列文字字体居中 */
+.resu_tab>tbody>tr>td:nth-child(1) {
+	text-align: center;
+}
+
+/* 设置通话记录表格第二列字体倾斜 */
+.resu_tab>tbody>tr>td:nth-child(2) {
+	font-style: italic;
+}
+
+/* 设置通话记录表格无边框 */
+.resu_tab>tbody>tr>td {
+	border: 0px;
+}

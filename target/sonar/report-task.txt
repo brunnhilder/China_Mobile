@@ -1,0 +1,6 @@
+projectKey=com.cms:cms
+serverUrl=http://localhost:8084
+serverVersion=7.4.0.18908
+dashboardUrl=http://localhost:8084/dashboard?id=com.cms%3Acms
+ceTaskId=AXNBeWQlj8scVYcbNjeh
+ceTaskUrl=http://localhost:8084/api/ce/task?id=AXNBeWQlj8scVYcbNjeh

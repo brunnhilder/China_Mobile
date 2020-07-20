@@ -1,0 +1,24 @@
+@charset "UTF-8";
+
+/* 设置标题样式 */
+#call_hist_title {
+	text-align: center;
+	color: #008080;
+	margin-top: 1.5em;
+	margin-bottom: 1em;
+}
+
+/* 设置模板表格不显示 */
+#resu_tab_template {
+	display: none;
+}
+
+/* 设置查询按钮居右 */
+#get_ch_submit {
+	float: right;
+}
+
+/* 设置提示文字颜色 */
+.tip_font {
+	color: #008040;
+}

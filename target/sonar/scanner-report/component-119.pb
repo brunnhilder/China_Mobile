@@ -1,0 +1,1 @@
+wsrc/test/java/com/cms/mapper :vrsrc/test/java/com/cms/mapper

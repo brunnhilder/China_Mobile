@@ -1,0 +1,21 @@
+@charset "UTF-8";
+/* 设置表格标题样式 */
+#score_tab_title {
+	text-align: center;
+	color: #008080;
+	margin-top: 1.5em;
+	margin-bottom: 1em;
+}
+/* 设置表格居中，行间隔色 */
+#score_list_table tbody tr td{
+	text-align: center;
+}
+#score_list_table thead tr th{
+	text-align: center;
+}
+#score_list_table tr:nth-child(odd){
+    background: #cafafa;
+}
+#score_list_table th{
+    background: #efefef;
+}

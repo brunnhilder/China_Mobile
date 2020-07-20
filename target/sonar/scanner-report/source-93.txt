@@ -1,0 +1,64 @@
+/**  
+ * @Title: UserSvcImpl.java
+ * @Package com.cms.svc.impl
+ * @author daluosi
+ * @date 2020年6月29日
+ * @version V1.0  
+ */
+package com.cms.svc.impl;
+
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+
+import com.cms.mapper.CmsCustomerAuthMapper;
+import com.cms.pojo.CmsCustomerAuth;
+import com.cms.pojo.CmsCustomerScore;
+import com.cms.svc.ChangepwdSvc;
+
+
+/**
+ * @ClassName: UserSvcImpl
+ * @Description: 用户操作实现类
+ * @author daluosi
+ * @date 2020年6月29日
+ * @since JDK 1.8
+ */
+@Service
+public class ChangepwdSvcImpl implements ChangepwdSvc {
+
+	@Autowired
+	private CmsCustomerAuthMapper customerAuthMapper;
+
+	@Override
+	//@Rollback(false)
+	public int updateChangepwd(String phoneNum, String password) {
+		
+		CmsCustomerAuth cmsCustomerAuth = customerAuthMapper.selectByPhoneNum(phoneNum);
+		cmsCustomerAuth.setPassword(password);
+		customerAuthMapper.updateByPrimaryKey(cmsCustomerAuth);
+		System.out.println(phoneNum);
+		System.out.println(password);
+		if (cmsCustomerAuth== null) {
+			return 0;
+		}
+		if (cmsCustomerAuth != null && cmsCustomerAuth.equals("0")) {
+			return 1;
+		}
+
+		return 2;
+	}
+
+	
+	
+
+	
+	  
+	  
+	 
+}

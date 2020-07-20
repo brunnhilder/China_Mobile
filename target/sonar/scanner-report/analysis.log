@@ -1,0 +1,170 @@
+Environment variables:
+  - =::=::\
+  - ALLUSERSPROFILE=C:\ProgramData
+  - APPDATA=C:\Users\Sigrid\AppData\Roaming
+  - CATALINA_BASE=D:\apache-tomcat-8.5.47
+  - CATALINA_HOME=D:\apache-tomcat-8.5.47
+  - CLASSPATH=.;C:\Program Files\Java\jdk1.8.0_77\bin;C:\Program Files\Java\jdk1.8.0_77\lib\dt.jar;C:\Program Files\Java\jdk1.8.0_77\lib\tools.jar
+  - COMPUTERNAME=LAPTOP-HCUHL04L
+  - ComSpec=C:\WINDOWS\system32\cmd.exe
+  - CommonProgramFiles=C:\Program Files\Common Files
+  - CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+  - CommonProgramW6432=C:\Program Files\Common Files
+  - DriverData=C:\Windows\System32\Drivers\DriverData
+  - FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer
+  - FPS_BROWSER_USER_PROFILE_STRING=Default
+  - GRADLE_HOME=D:\JAVA\gradle-4.8
+  - HOMEDRIVE=C:
+  - HOMEPATH=\Users\Sigrid
+  - IntelliJ IDEA=D:\IntelliJ IDEA 2019.1.3\bin;
+  - JAVA_HOME=C:\Program Files\Java\jdk1.8.0_77
+  - LOCALAPPDATA=C:\Users\Sigrid\AppData\Local
+  - LOGONSERVER=\\LAPTOP-HCUHL04L
+  - M2_HOME=D:\apache-maven-3.6.1
+  - NUMBER_OF_PROCESSORS=8
+  - OS=Windows_NT
+  - OneDrive=C:\Users\Sigrid\OneDrive
+  - PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+  - PROCESSOR_ARCHITECTURE=AMD64
+  - PROCESSOR_IDENTIFIER=AMD64 Family 23 Model 24 Stepping 1, AuthenticAMD
+  - PROCESSOR_LEVEL=23
+  - PROCESSOR_REVISION=1801
+  - PSModulePath=C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules
+  - PUBLIC=C:\Users\Public
+  - Path=C:/Program Files/Java/jre1.8.0_77/bin/server;C:/Program Files/Java/jre1.8.0_77/bin;C:/Program Files/Java/jre1.8.0_77/lib/amd64;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;D:\apache-tomcat-8.5.47\bin;C:\Program Files\Java\jdk1.8.0_77\bin;D:\apache-maven-3.6.1\bin;D:\apache-tomcat-8.5.47\lib;C:\windows\system32;"C:\WINDOWS\SYSTEM32;C:\WINDOWS;C:\WINDOWS\SYSTEM32\WBEM;C:\WINDOWS\SYSTEM32\WINDOWSPOWERSHELL\V1.0\;";D:\JAVA\gradle-4.8\bin;D:\SVN\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;"C:\Program Files\Java\jdk1.8.0_77\bin;C:\Program Files\Java\jdk1.8.0_77\jre\bin";D:\mysql-5.7.30-winx64\bin;D:\Git\bin;D:\TortoiseGit\bin;C:\Users\Sigrid\AppData\Local\Microsoft\WindowsApps;;D:\IntelliJ IDEA 2019.1.3\bin;;D:\Sts4\sts-4.6.1.RELEASE;
+  - ProgramData=C:\ProgramData
+  - ProgramFiles=C:\Program Files
+  - ProgramFiles(x86)=C:\Program Files (x86)
+  - ProgramW6432=C:\Program Files
+  - SESSIONNAME=Console
+  - SystemDrive=C:
+  - SystemRoot=C:\WINDOWS
+  - TEMP=C:\Users\Sigrid\AppData\Local\Temp
+  - TMP=C:\Users\Sigrid\AppData\Local\Temp
+  - USERDOMAIN=LAPTOP-HCUHL04L
+  - USERDOMAIN_ROAMINGPROFILE=LAPTOP-HCUHL04L
+  - USERNAME=Sigrid
+  - USERPROFILE=C:\Users\Sigrid
+  - windir=C:\WINDOWS
+System properties:
+  - awt.toolkit=sun.awt.windows.WToolkit
+  - classworlds.conf=D:\STS-workspace\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf3896054329024249666.tmp
+  - file.encoding=GBK
+  - file.encoding.pkg=sun.io
+  - file.separator=\
+  - guice.disable.misplaced.annotation.check=true
+  - jansi.force=true
+  - jansi.passthrough=true
+  - java.awt.graphicsenv=sun.awt.Win32GraphicsEnvironment
+  - java.awt.printerjob=sun.awt.windows.WPrinterJob
+  - java.class.path=D:\Sts4\sts-4.6.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_1.15.0.20200310-1832\jars\plexus-classworlds-2.6.0.jar
+  - java.class.version=52.0
+  - java.endorsed.dirs=C:\Program Files\Java\jdk1.8.0_77\jre\lib\endorsed
+  - java.ext.dirs=C:\Program Files\Java\jdk1.8.0_77\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext
+  - java.home=C:\Program Files\Java\jdk1.8.0_77\jre
+  - java.io.tmpdir=C:\Users\Sigrid\AppData\Local\Temp\
+  - java.library.path=C:\Program Files\Java\jdk1.8.0_77\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Program Files/Java/jre1.8.0_77/bin/server;C:/Program Files/Java/jre1.8.0_77/bin;C:/Program Files/Java/jre1.8.0_77/lib/amd64;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;D:\apache-tomcat-8.5.47\bin;C:\Program Files\Java\jdk1.8.0_77\bin;D:\apache-maven-3.6.1\bin;D:\apache-tomcat-8.5.47\lib;C:\windows\system32;"C:\WINDOWS\SYSTEM32;C:\WINDOWS;C:\WINDOWS\SYSTEM32\WBEM;C:\WINDOWS\SYSTEM32\WINDOWSPOWERSHELL\V1.0\;";D:\JAVA\gradle-4.8\bin;D:\SVN\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;"C:\Program Files\Java\jdk1.8.0_77\bin;C:\Program Files\Java\jdk1.8.0_77\jre\bin";D:\mysql-5.7.30-winx64\bin;D:\Git\bin;D:\TortoiseGit\bin;C:\Users\Sigrid\AppData\Local\Microsoft\WindowsApps;;D:\IntelliJ IDEA 2019.1.3\bin;;D:\Sts4\sts-4.6.1.RELEASE;;.
+  - java.runtime.name=Java(TM) SE Runtime Environment
+  - java.runtime.version=1.8.0_77-b03
+  - java.specification.name=Java Platform API Specification
+  - java.specification.vendor=Oracle Corporation
+  - java.specification.version=1.8
+  - java.vendor=Oracle Corporation
+  - java.vendor.url=http://java.oracle.com/
+  - java.vendor.url.bug=http://bugreport.sun.com/bugreport/
+  - java.version=1.8.0_77
+  - java.vm.info=mixed mode
+  - java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+  - java.vm.specification.name=Java Virtual Machine Specification
+  - java.vm.specification.vendor=Oracle Corporation
+  - java.vm.specification.version=1.8
+  - java.vm.vendor=Oracle Corporation
+  - java.vm.version=25.77-b03
+  - line.separator=
+
+  - maven.home=D:\cms\EMBEDDED
+  - maven.multiModuleProjectDirectory=D:\cms
+  - maven.test.skip=true
+  - org.slf4j.simpleLogger.defaultLogLevel=debug
+  - os.arch=amd64
+  - os.name=Windows 10
+  - os.version=10.0
+  - path.separator=;
+  - skipTests=true
+  - style.color=always
+  - sun.arch.data.model=64
+  - sun.boot.class.path=C:\Program Files\Java\jdk1.8.0_77\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_77\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_77\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_77\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_77\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_77\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_77\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_77\jre\classes
+  - sun.boot.library.path=C:\Program Files\Java\jdk1.8.0_77\jre\bin
+  - sun.cpu.endian=little
+  - sun.cpu.isalist=amd64
+  - sun.desktop=windows
+  - sun.io.unicode.encoding=UnicodeLittle
+  - sun.java.command=org.codehaus.plexus.classworlds.launcher.Launcher -B -Dmaven.test.skip=true -DskipTests -s D:\apache-maven-3.6.1\conf\settings.xml sonar:sonar -X -Dstyle.color=always
+  - sun.java.launcher=SUN_STANDARD
+  - sun.jnu.encoding=GBK
+  - sun.management.compiler=HotSpot 64-Bit Tiered Compilers
+  - sun.os.patch.level=
+  - user.country=CN
+  - user.dir=D:\cms
+  - user.home=C:\Users\Sigrid
+  - user.language=zh
+  - user.name=Sigrid
+  - user.script=
+  - user.timezone=Asia/Shanghai
+  - user.variant=
+SonarQube plugins:
+  - SonarPython 1.10.0.2131 (python)
+  - SonarCSS 1.0.2.611 (cssfamily)
+  - JaCoCo 1.0.1.143 (jacoco)
+  - SonarGo 1.1.0.1612 (go)
+  - SonarKotlin 1.2.1.2009 (kotlin)
+  - Svn 1.9.0.1295 (scmsvn)
+  - SonarJS 5.0.0.6962 (javascript)
+  - SonarRuby 1.2.1.2009 (ruby)
+  - SonarC# 7.7.0.7192 (csharp)
+  - SonarJava 5.8.0.15699 (java)
+  - LDAP 2.2.0.608 (ldap)
+  - Git 1.6.0.1349 (scmgit)
+  - SonarFlex 2.4.0.1222 (flex)
+  - SonarXML 1.5.1.1452 (xml)
+  - SonarPHP 2.14.0.3569 (php)
+  - SonarTS 1.8.0.3332 (typescript)
+  - SonarVB 7.7.0.7192 (vbnet)
+Global properties:
+  - sonar.core.id=49B321BC-AXMAQXnZYvjX8wHvK0Bq
+  - sonar.core.startTime=2020-07-12T13:21:38+0800
+Settings for module: com.cms:cms
+  - sonar.binaries=D:\cms\target\classes
+  - sonar.dynamic=reuseReports
+  - sonar.groovy.binaries=D:\cms\target\classes
+  - sonar.host.url=http://localhost:8084
+  - sonar.java.binaries=D:\cms\target\classes
+  - sonar.java.libraries=D:\apache-maven-3.6.1\repository\org\springframework\boot\spring-boot-starter-web\2.1.7.RELEASE\spring-boot-starter-web-2.1.7.RELEASE.jar,D:\apache-maven-3.6.1\repository\org\springframework\boot\spring-boot-starter\2.1.7.RELEASE\spring-boot-starter-2.1.7.RELEASE.jar,D:\apache-maven-3.6.1\repository\org\springframework\boot\spring-boot-starter-logging\2.1.7.RELEASE\spring-boot-starter-logging-2.1.7.RELEASE.jar,D:\apache-maven-3.6.1\repository\ch\qos\logback\logback-classic\1.2.3\logback-classic-1.2.3.jar,D:\apache-maven-3.6.1\repository\ch\qos\logback\logback-core\1.2.3\logback-core-1.2.3.jar,D:\apache-maven-3.6.1\repository\org\apache\logging\log4j\log4j-to-slf4j\2.11.2\log4j-to-slf4j-2.11.2.jar,D:\apache-maven-3.6.1\repository\org\apache\logging\log4j\log4j-api\2.11.2\log4j-api-2.11.2.jar,D:\apache-maven-3.6.1\repository\org\slf4j\jul-to-slf4j\1.7.26\jul-to-slf4j-1.7.26.jar,D:\apache-maven-3.6.1\repository\javax\annotation\javax.annotation-api\1.3.2\javax.annotation-api-1.3.2.jar,...
+  - sonar.java.source=1.8
+  - sonar.java.target=1.8
+  - sonar.java.test.binaries=D:\cms\target\test-classes
+  - sonar.java.test.libraries=D:\cms\target\classes,D:\apache-maven-3.6.1\repository\org\springframework\boot\spring-boot-starter-web\2.1.7.RELEASE\spring-boot-starter-web-2.1.7.RELEASE.jar,D:\apache-maven-3.6.1\repository\org\springframework\boot\spring-boot-starter\2.1.7.RELEASE\spring-boot-starter-2.1.7.RELEASE.jar,D:\apache-maven-3.6.1\repository\org\springframework\boot\spring-boot-starter-logging\2.1.7.RELEASE\spring-boot-starter-logging-2.1.7.RELEASE.jar,D:\apache-maven-3.6.1\repository\ch\qos\logback\logback-classic\1.2.3\logback-classic-1.2.3.jar,D:\apache-maven-3.6.1\repository\ch\qos\logback\logback-core\1.2.3\logback-core-1.2.3.jar,D:\apache-maven-3.6.1\repository\org\apache\logging\log4j\log4j-to-slf4j\2.11.2\log4j-to-slf4j-2.11.2.jar,D:\apache-maven-3.6.1\repository\org\apache\logging\log4j\log4j-api\2.11.2\log4j-api-2.11.2.jar,D:\apache-maven-3.6.1\repository\org\slf4j\jul-to-slf4j\1.7.26\jul-to-slf4j-1.7.26.jar,D:\apache-maven-3.6.1\repository\javax\annotation\javax.annotation-api\1.3.2\javax.ann...
+  - sonar.jdbc.driver=com.mysql.jdbc.Driver
+  - sonar.jdbc.password=******
+  - sonar.jdbc.url=jdbc:mysql://localhost:3306/sonar
+  - sonar.jdbc.username=root
+  - sonar.libraries=D:\apache-maven-3.6.1\repository\org\springframework\boot\spring-boot-starter-web\2.1.7.RELEASE\spring-boot-starter-web-2.1.7.RELEASE.jar,D:\apache-maven-3.6.1\repository\org\springframework\boot\spring-boot-starter\2.1.7.RELEASE\spring-boot-starter-2.1.7.RELEASE.jar,D:\apache-maven-3.6.1\repository\org\springframework\boot\spring-boot-starter-logging\2.1.7.RELEASE\spring-boot-starter-logging-2.1.7.RELEASE.jar,D:\apache-maven-3.6.1\repository\ch\qos\logback\logback-classic\1.2.3\logback-classic-1.2.3.jar,D:\apache-maven-3.6.1\repository\ch\qos\logback\logback-core\1.2.3\logback-core-1.2.3.jar,D:\apache-maven-3.6.1\repository\org\apache\logging\log4j\log4j-to-slf4j\2.11.2\log4j-to-slf4j-2.11.2.jar,D:\apache-maven-3.6.1\repository\org\apache\logging\log4j\log4j-api\2.11.2\log4j-api-2.11.2.jar,D:\apache-maven-3.6.1\repository\org\slf4j\jul-to-slf4j\1.7.26\jul-to-slf4j-1.7.26.jar,D:\apache-maven-3.6.1\repository\javax\annotation\javax.annotation-api\1.3.2\javax.annotation-api-1.3.2.jar,...
+  - sonar.links.ci=
+  - sonar.links.homepage=https://projects.spring.io/spring-boot/#/spring-boot-starter-parent/cms
+  - sonar.links.issue=
+  - sonar.links.scm=https://github.com/spring-projects/spring-boot/spring-boot-starter-parent/cms
+  - sonar.links.scm_dev=
+  - sonar.moduleKey=com.cms:cms
+  - sonar.projectBaseDir=D:\cms
+  - sonar.projectBuildDir=D:\cms\target
+  - sonar.projectDescription=china mobile system
+  - sonar.projectKey=com.cms:cms
+  - sonar.projectName=cms
+  - sonar.projectVersion=0.0.1-SNAPSHOT
+  - sonar.scanner.app=ScannerMaven
+  - sonar.scanner.appVersion=3.7.0.1746/3.6.3
+  - sonar.sourceEncoding=UTF-8
+  - sonar.sources=D:\cms\pom.xml,D:\cms\src\main\java
+  - sonar.tests=D:\cms\src\test\java
+  - sonar.verbose=true
+  - sonar.working.directory=D:\cms\target\sonar

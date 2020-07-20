@@ -1,0 +1,1 @@
+cms :	:CS\gnqtw{BKGhttps://projects.spring.io/spring-boot/#/spring-boot-starter-parent/cmsBQMhttps://github.com/spring-projects/spring-boot/spring-boot-starter-parent/cmsJ0.0.1-SNAPSHOTRcom.cms:cmsbchina mobile system
